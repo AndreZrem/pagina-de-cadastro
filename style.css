@@ -17,8 +17,8 @@ body
     color: white;
     font-weight: 500;
     display: flex;
-    min-height: 100vh;
-    min-width: 100vw;
+    min-height: 90vh;
+    min-width: 90vh;
 }
 
 main
@@ -33,8 +33,8 @@ main
 main h1
 {
     color: #8880FE;
-    font-size: 3rem;
-    margin-bottom: 3rem;
+    font-size: 2.5rem;
+    margin-bottom: 1rem;
     text-align: center;
 }
 
@@ -142,8 +142,9 @@ section.images
 {
     display: flex;
     align-items: flex-end;
-    padding: 4rem;
+    padding: 0 4rem;
     width: 100%;
+    
 }
 
 section.images .circle
